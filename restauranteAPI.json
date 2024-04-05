@@ -1,0 +1,110 @@
+{
+    "menú": [
+        {
+            "categoría": "pizza",
+            "nombre": "amante de la carne",
+            "descripción": "Salchicha de ternera en lonchas, carne picada, hamburguesa de ternera, salchicha de pollo",
+            "precio": 49500,
+            "imagen": "american-favourite.jpg"
+        },
+        {
+            "category": "pizza",
+            "name": "Super Suprema",
+            "descripción": "Pollo y ternera ahumados, carne picada, hamburguesa de ternera, champiñones, pimientos rojos y pimientos verdes",
+            "precio": 49500,
+            "imagen": "supreme.jpg"
+        },
+        {
+            "category": "pizza",
+            "name": "Tuna Melt",
+            "descripción": "Lonchas de carne de atún, granos de maíz, salsa mayonesa",
+            "precio": 49500,
+            "imagen": "tuna-melt.jpg"
+        },
+        {
+            "categoría": "pizza",
+            "nombre": "favorito americano",
+            "descripción": "Pepperoni de ternera, carne picada y champiñones",
+            "price": 49500,
+            "imagen": "american-favourite.jpg"
+        },
+        {
+            "category": "pasta",
+            "name": "Espaguetis de ternera",
+            "descripción": "Salchichón de ternera, carne picada y champiñones",
+            "precio": 43000,
+            "imagen": "carne-espaguetis.jpg"
+        },
+        {
+            "category": "pasta",
+            "name": "Lasaña de ternera",
+            "descripción": "Carne picada a la plancha. Crema blanca suave en cada capa",
+            "precio": 48000,
+            "imagen": "carne-lasagna.jpg"
+        },
+        {
+            "category": "pasta",
+            "name": "Fettuccine cremoso de ternera",
+            "descripción": "Ternera ahumada y champiñones, salteados en una delicada salsa de nata",
+            "precio": 43000,
+            "imagen": "creamy-beef-fettuccine.jpg"
+        },
+
+        {
+            "categoría": "arroz",
+            "nombre": "Albóndigas de ternera y champiñones",
+            "descripción": "Albóndigas de ternera con carne picada y salsa de champiñones",
+            "precio": 40000,
+            "imagen": "meatballs-beef-mushroom.jpg"
+        },
+        {
+            "category": "arroz",
+            "name": "Pollo a la pimienta negra",
+            "descripción": "Pollo con salsa de pimienta negra",
+            "precio": 40000,
+            "imagen": "black-pepper-chicken.jpg"
+        },
+        {
+            "category": "arroz",
+            "name": "Pollo Oriental",
+            "descripción": "Carne de pollo combinada con salsa oriental",
+            "precio": 40000,
+            "imagen": "pollo-oriental.jpg"
+        },
+        {
+            "category": "bebida",
+            "name": "Choco Menta",
+            "descripción": "",
+            "precio": 24000,
+            "imagen": "choco-mint.jpg"
+        },
+        {
+            "category": "bebida",
+            "name": "Café Toffee",
+            "descripción": "",
+            "precio": 24000,
+            "imagen": "toffee-coffee.jpg"
+        },
+        {
+            "category": "bebida",
+            "name": "Batido de Té Verde",
+            "descripción": "",
+            "precio": 24000,
+            "imagen": "green-tea-shake.jpg"
+        },
+        {
+            "categoría": "bebida",
+            "nombre": "Batido de fresa",
+            "descripción": "",
+            "precio": 24000,
+            "imagen": "batido-de-fresa.jpg"
+        },
+        {
+            "category": "bebida",
+            "name": "Batido de chocolate",
+            "descripción": "",
+            "precio": 24000,
+            "imagen": "batido-de-chocolate.jpg"
+        }
+    ]
+}
