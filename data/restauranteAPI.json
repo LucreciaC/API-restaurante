@@ -5,7 +5,7 @@
             "nama": "Amante de la carne",
             "deskripsi": "Rebanadas de salchicha de res, carne de res molida, hamburguesa de res, salchicha de pollo.",
             "harga": 49500,
-            "gambar": "https://raw.githubusercontent.com/LucreciaC/API-restaurante/blob/main/img/menu/american-favourite.jpg"
+            "gambar": "img/menu/american-favourite.jpg"
         },
         {
             "kategori": "pizza",
