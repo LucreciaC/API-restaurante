@@ -1,110 +1,109 @@
 {
-    "menú": [
+    "menu": [
         {
-            "categoría": "pizza",
-            "nombre": "amante de la carne",
-            "descripción": "Salchicha de ternera en lonchas, carne picada, hamburguesa de ternera, salchicha de pollo",
-            "precio": 49500,
-            "imagen": "american-favourite.jpg"
+            "kategori": "pizza",
+            "nama": "Amante de la carne",
+            "deskripsi": "Rebanadas de salchicha de res, carne de res molida, hamburguesa de res, salchicha de pollo.",
+            "harga": 49500,
+            "gambar": "meat-lover.jpg"
         },
         {
-            "category": "pizza",
-            "name": "Super Suprema",
-            "descripción": "Pollo y ternera ahumados, carne picada, hamburguesa de ternera, champiñones, pimientos rojos y pimientos verdes",
-            "precio": 49500,
-            "imagen": "supreme.jpg"
+            "kategori": "pizza",
+            "nama": "Super Suprema",
+            "deskripsi": "Carne de pollo y res ahumada, carne de res molida, hamburguesa de res, champiñones, pimientos rojos y verdes.",
+            "harga": 49500,
+            "gambar": "supreme.jpg"
         },
         {
-            "category": "pizza",
-            "name": "Tuna Melt",
-            "descripción": "Lonchas de carne de atún, granos de maíz, salsa mayonesa",
-            "precio": 49500,
-            "imagen": "tuna-melt.jpg"
+            "kategori": "pizza",
+            "nama": "Tuna Melt",
+            "deskripsi": "Rebanadas de atún, granos de maíz, salsa mayonesa.",
+            "harga": 49500,
+            "gambar": "tuna-melt.jpg"
         },
         {
-            "categoría": "pizza",
-            "nombre": "favorito americano",
-            "descripción": "Pepperoni de ternera, carne picada y champiñones",
-            "price": 49500,
-            "imagen": "american-favourite.jpg"
+            "kategori": "pizza",
+            "nama": "Favorito Americano",
+            "deskripsi": "Pepperoni de res, carne de res molida, champiñones.",
+            "harga": 49500,
+            "gambar": "american-favourite.jpg"
         },
         {
-            "category": "pasta",
-            "name": "Espaguetis de ternera",
-            "descripción": "Salchichón de ternera, carne picada y champiñones",
-            "precio": 43000,
-            "imagen": "carne-espaguetis.jpg"
+            "kategori": "pasta",
+            "nama": "Espaguetis de Res",
+            "deskripsi": "Pepperoni de res, carne de res molida, champiñones.",
+            "harga": 43000,
+            "gambar": "beef-spaghetti.jpg"
         },
         {
-            "category": "pasta",
-            "name": "Lasaña de ternera",
-            "descripción": "Carne picada a la plancha. Crema blanca suave en cada capa",
-            "precio": 48000,
-            "imagen": "carne-lasagna.jpg"
+            "kategori": "pasta",
+            "nama": "Lasaña de Res",
+            "deskripsi": "Horneada, carne de res molida. Crema blanca suave en cada capa.",
+            "harga": 48000,
+            "gambar": "beef-lasagna.jpg"
         },
         {
-            "category": "pasta",
-            "name": "Fettuccine cremoso de ternera",
-            "descripción": "Ternera ahumada y champiñones, salteados en una delicada salsa de nata",
-            "precio": 43000,
-            "imagen": "creamy-beef-fettuccine.jpg"
-        },
-
-        {
-            "categoría": "arroz",
-            "nombre": "Albóndigas de ternera y champiñones",
-            "descripción": "Albóndigas de ternera con carne picada y salsa de champiñones",
-            "precio": 40000,
-            "imagen": "meatballs-beef-mushroom.jpg"
+            "kategori": "pasta",
+            "nama": "Fettuccine de Res Cremoso",
+            "deskripsi": "Carne de res ahumada y champiñones, salteados con salsa cremosa.",
+            "harga": 43000,
+            "gambar": "creamy-beef-fettuccine.jpg"
         },
         {
-            "category": "arroz",
-            "name": "Pollo a la pimienta negra",
-            "descripción": "Pollo con salsa de pimienta negra",
-            "precio": 40000,
-            "imagen": "black-pepper-chicken.jpg"
+            "kategori": "nasi",
+            "nama": "Albóndigas de Res con Champiñones",
+            "deskripsi": "Bolas de carne de res con salsa de carne de res molida y champiñones.",
+            "harga": 40000,
+            "gambar": "meatballs-beef-mushroom.jpg"
         },
         {
-            "category": "arroz",
-            "name": "Pollo Oriental",
-            "descripción": "Carne de pollo combinada con salsa oriental",
-            "precio": 40000,
-            "imagen": "pollo-oriental.jpg"
+            "kategori": "nasi",
+            "nama": "Pollo a la Pimienta Negra",
+            "deskripsi": "Pollo con salsa de pimienta negra.",
+            "harga": 40000,
+            "gambar": "black-pepper-chicken.jpg"
         },
         {
-            "category": "bebida",
-            "name": "Choco Menta",
-            "descripción": "",
-            "precio": 24000,
-            "imagen": "choco-mint.jpg"
+            "kategori": "nasi",
+            "nama": "Pollo Oriental",
+            "deskripsi": "Pollo mezclado con salsa oriental.",
+            "harga": 40000,
+            "gambar": "oriental-chicken.jpg"
         },
         {
-            "category": "bebida",
-            "name": "Café Toffee",
-            "descripción": "",
-            "precio": 24000,
-            "imagen": "toffee-coffee.jpg"
+            "kategori": "minuman",
+            "nama": "Choco Menta",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "choco-mint.jpg"
         },
         {
-            "category": "bebida",
-            "name": "Batido de Té Verde",
-            "descripción": "",
-            "precio": 24000,
-            "imagen": "green-tea-shake.jpg"
+            "kategori": "minuman",
+            "nama": "Café Toffee",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "toffee-coffee.jpg"
         },
         {
-            "categoría": "bebida",
-            "nombre": "Batido de fresa",
-            "descripción": "",
-            "precio": 24000,
-            "imagen": "batido-de-fresa.jpg"
+            "kategori": "minuman",
+            "nama": "Batido de Té Verde",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "green-tea-shake.jpg"
         },
         {
-            "category": "bebida",
-            "name": "Batido de chocolate",
-            "descripción": "",
-            "precio": 24000,
-            "imagen": "batido-de-chocolate.jpg"
+            "kategori": "minuman",
+            "nama": "Batido de Fresa",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "strawberry-milkshake.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Batido de Chocolate",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "chocolate-milkshake.jpg"
         }
     ]
 }
